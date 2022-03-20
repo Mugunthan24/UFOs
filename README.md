@@ -6,6 +6,15 @@ A website was created using HTML and JavaScript. On the website there is a table
 
 ## Results
 
+Unfiltered Table
+![image_name](https://github.com/Mugunthan24/UFOs/blob/main/static/images/Unfiltered%20Table.png)
+
+Filtered Table - Country
+![image_name](https://github.com/Mugunthan24/UFOs/blob/main/static/images/Filtered%20Table%20-%20Country.png)
+
+Filtered Table - Country and Date
+![image_name](https://github.com/Mugunthan24/UFOs/blob/main/static/images/Filtered%20Table%20-%20Country%20and%20Date.png)
+
 A user of the webpage may be interested in viewing reported UFO sitings in their city or country. By default, when the webpage first loads, the table is unfiltered and contains many entries. If a user is from Canada, and is interested in seeing the reported siting in his/her country then they can enter "ca" in the Country filter and see the UFO sitings reported in Canada. Additionally, with the use of multiple filters, they may want to also filter for a specific day in addition to filtering for Canada. Incorporating the ability to filter multiple columns in the table, greatly empowers the user.
 
 ## Summary
